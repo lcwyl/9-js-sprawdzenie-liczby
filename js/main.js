@@ -6,4 +6,4 @@ const wskaz = n => {
         console.log("liczba nie znajduję się w przedziale"); 
     }
 }
-let wynik = wskaz(200);
+wskaz(200);
